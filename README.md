@@ -1,4 +1,4 @@
-# Artificial Intellignce Lectures
+# Artificial Intelligence Lectures
 
 This GitHub repository shares some common tasks appeared in the series of video lecture series on AI.
 
